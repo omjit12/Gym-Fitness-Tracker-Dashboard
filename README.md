@@ -4,7 +4,7 @@ Features & Insights
 
 📈 Workout Trends – Track weekly/monthly workout sessions.
 
-💪 Muscle Group Analysis – Distribution of exercises by category (cardio, strength, flexibility).
+💪 Body Mass Index – Interactive Calculator to measure BMI . 
 
 🧍 Member Progress – Weight/BMI improvements over time.
 
